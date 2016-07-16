@@ -1,0 +1,25 @@
+{
+  "name": "moviefind",
+  "version": "1.0.0",
+  "description": "Simple movie info finder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayeni Olusegun <nsegun5@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iamraphson/MovieFind"
+  },
+  "dependencies": {
+    "browserify": "^13.0.1",
+    "flux": "^2.1.1",
+    "gulp": "^3.9.1",
+    "object-assign": "^4.1.0",
+    "react": "^15.2.1",
+    "react-dom": "^15.2.1",
+    "reactify": "^1.1.1",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
